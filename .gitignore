@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+License-Plate-Recognition-13/
+#dataset
+
+runs/
+saved_models/
+notebook.ipynb
+videoplayback.mp4
